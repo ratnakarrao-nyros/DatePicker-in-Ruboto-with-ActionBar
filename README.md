@@ -13,6 +13,13 @@
 <p> when we click on the button the DatePickerDialog will open </p>
 
 
+
+ <p>
+ <img style="max-width:100%;" title="dashboard view" alt="Dashboard view" src="https://github.com/eveerababu-nyros/DatePicker-in-Ruboto-with-ActionBar/raw/master/screenshots/pic1.jpg">
+ </p>
+
+                                                                           
+
 <p> After we select the date the selected date will be displyed in textview </p>
 
 
